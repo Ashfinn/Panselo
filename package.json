@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.13.0",
+    "shelljs": "^0.8.5"
+  }
+}

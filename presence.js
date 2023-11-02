@@ -7,9 +7,6 @@ const rpc = new RPC.Client({
     transport: "ipc"
 });
 
-// Launch the game using shell.exec
-shell.exec("D:\\Steam\\steamapps\\common\\Phoenotopia Awakening\\PhoenotopiaAwakening.exe");
-
 // Define a callback function when the Discord Rich Presence is ready
 rpc.on("ready", () => {
     // Set the Rich Presence activity
@@ -28,3 +25,4 @@ rpc.on("ready", () => {
 rpc.login({
     clientId: "1169223418881781821" // Your Client ID
 });
+

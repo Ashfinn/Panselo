@@ -46,7 +46,9 @@ npm install
 2. Customize your presence:
    - Modify the `presence.js` file to specify your game's executable path and other details (e.g., large image key, text, and activity details).
 
-3. Run your presence script:
+3. Add your game executable path to the .bat file.
+ 
+4. Run your presence script:
 
 ```bash
    node presence.js

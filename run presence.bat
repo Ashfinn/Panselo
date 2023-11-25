@@ -1,7 +1,7 @@
 @echo off
 
 REM Define the path to your game executable
-set GAME_EXECUTABLE="D:\Steam\steamapps\common\Phoenotopia Awakening\PhoenotopiaAwakening.exe"
+set GAME_EXECUTABLE="Add Your Game Executable Directory Here"
 
 REM Launch the game using the specified executable path
 start "" %GAME_EXECUTABLE%

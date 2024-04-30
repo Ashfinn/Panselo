@@ -34,8 +34,7 @@ cd your-repo
 ```bash
 npm install
 ```
-<img src="https://cdn.discordapp.com/attachments/856175159463510037/1169338423304269905/123.png?ex=65550a45&is=65429545&hm=54cdc38d8cde813f39ed7f25ed5d12652b624b49902f609a856f0e93894d3403&">
-
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1858296860146518608/990079FC03D2BD3C3A1541F0EC2F6C944346AE08/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width:250px; height:350px;">
 ### Usage
 
 1. Configure your Discord Application ID:
